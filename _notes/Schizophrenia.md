@@ -8,7 +8,7 @@ Aliases: Dementia praecox
 ---
 # 
 ## Clinical features:
-### Onset of first [[Psychosis|Psychotic break]] around young age precipitated by a stressor
+### Onset of first [[Psychosis\|Psychotic break]] around young age precipitated by a stressor
 #### Typically when they first leave home 
 ### Duration of 'odd behavior and speech' which narrows from psychosis ddx, and r/o schizophrenia mimics -> [[Schneiderian first rank symptoms]] and [[Schneiderian second rank symptoms]]
 |          | [[Brief psychotic disorder]] | [[Schizophreniform disorder]] | [[Schizophrenia]]        |
@@ -59,7 +59,7 @@ Aliases: Dementia praecox
 ### Imaging
 #### CT-B to r/o organic aetiology
 #### Schizophrenia can have certain changes even on CT
-##### Chronic schizophrenia -> [[Ventriculomegaly|Lateral ventricular enlargement]] with frontal lobe cortical atrophy
+##### Chronic schizophrenia -> [[Ventriculomegaly\|Lateral ventricular enlargement]] with frontal lobe cortical atrophy
 
 ---
 # Acute Tx
@@ -87,10 +87,10 @@ Aliases: Dementia praecox
 ## Complications
 ### [[Asociality]] + disorganisation of thought and speech lead to continuous [[Social isolation]] -> [[Unemployment]], [[Homelessness]] and Incarceration 
 ### 7% rate of [[Suicide]]
-### Post-psychotic [[Major depressive disorder|Depression]] is common
+### Post-psychotic [[Major depressive disorder\|Depression]] is common
 #### Predictive factors include patients with poor social functioning in childhood, long duration of untreated psychosis and depressive symptoms at baseline ^[https://bmcpsychiatry.biomedcentral.com/articles/10.1186/1471-244X-13-106]
 ### They develop a [[Metabolic syndrome]] esp. the [[Dyslipidaemia]] **independent of anti-psychotic use** -> and often die from [[Acute coronary syndrome]]
-#### [[Obstructive sleep apnoea|OSA]] is pervasive
+#### [[Obstructive sleep apnoea\|OSA]] is pervasive
 
 ---
 ## Aetiology

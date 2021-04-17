@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "_notes/Schizophrenia.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
