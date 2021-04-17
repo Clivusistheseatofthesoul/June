@@ -1,19 +1,21 @@
 ---
 title: Schizophrenia
-tags: disease 
+tags: disease, psych 
 toc: true
 season: winter
 Aliases: Dementia praecox
 ---
-# 
+# 'Split mind' 
 ## Clinical features:
 ### Onset of first [[Psychosis\|Psychotic break]] around young age precipitated by a stressor
 #### Typically when they first leave home 
 ### Duration of 'odd behavior and speech' which narrows from psychosis ddx, and r/o schizophrenia mimics -> [[Schneiderian first rank symptoms]] and [[Schneiderian second rank symptoms]]
-|          | [[Brief psychotic disorder]] | [[Schizophreniform disorder]] | [[Schizophrenia]]        |
+
+| Feature  | [[Brief psychotic disorder]] | [[Schizophreniform disorder]] | [[Schizophrenia]]        |
 | -------- | ---------------------------- | ----------------------------- | ------------------------ |
 | Duration | 1 day - 1 month              | 1 month - 6 months            | > 6 months               |
 | Tx       | 1 month of anti-psychotics   | 3-6 months of anti-psychotics | Lifelong anti=psychotics |  
+
 #### Schizophrenia has psychosis which persists for > 6 months (and lifelong if not treated)
 ##### 6 months starting from onset of any prodrome (dosen't have to be formal psychosis)
 ##### This is not like PTSD where if you intervened earlier you could prevent it -> there is no therapy that we have which overcomes the neurodevelopmental predisposition
@@ -33,8 +35,7 @@ Aliases: Dementia praecox
 #### Most are polygenic interactions
 ### Can have [[Late onset schizophrenia]]
 ## Mimics:
-### Neurological psychosis
-#### 
+### Organic causes of [[Psychosis]]
 ### Other forms of delusions
 #### Simple delusion disorder
 ### Continum with mood disorders
