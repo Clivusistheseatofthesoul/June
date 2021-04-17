@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Psychosis.md",
+            "file": "_notes/Schizophrenia.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Psychosis.md",
+                "file": "_notes/Schizophrenia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,8 @@
   },
   "active": "fae58d80c55fc5b9",
   "lastOpenFiles": [
-    "_notes/Psychosis.md",
     "_notes/Schizophrenia.md",
+    "_notes/Psychosis.md",
     "_notes/Obsidian integration.md",
     "_notes/Disease template.md",
     "tags.md"

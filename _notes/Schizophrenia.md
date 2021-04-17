@@ -20,11 +20,13 @@ Aliases: Dementia praecox
 ##### 6 months starting from onset of any prodrome (dosen't have to be formal psychosis)
 ##### This is not like PTSD where if you intervened earlier you could prevent it -> there is no therapy that we have which overcomes the neurodevelopmental predisposition
 ### Presence of disordered mood 
+
 | Feature                    | Schizophrenia                                                     | Schizoaffective disorder                                                               | Mood disorder with psychotic features                                                                        | Mood disorder     |    
 | -------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------- | 
 | Severeity of mood features | Not enough to meet criteria for  [[Depressive mood]] or [[Mania]] | Mostly Psychosis with meeting criteria for mild [[Depressive mood]] or [[Mania]]       | Mostly [[Depressive mood]] or [[Mania]] with mild features [[Psychosis]] which does not have to meet critera | Nil [[Psychosis]] |    
 | Timing of mood features    | Nil                                                               | **Isolated psychotic episodes** which must be seperated from mood episodes by >2 weeks | Psychosis only happens sometimes during mood episodes, **never alone**                                       | Nil               |   
 | Tx                         | Treat psychosis first                                             | Treat mood first                                                                       | Treat mood first                                                                                             | Treat mood first  |   
+
 ### O/E
 #### [[Overdressing for weather]] including [[Sunglasses inside]]
 
@@ -47,12 +49,13 @@ Aliases: Dementia praecox
 ## Workup:
 ### Clinical diagnosis
 #### Must have 2/5 features of psychosis AND the combination must not just be 4 and 5
+
 | Symptom group     | Symptoms                                                | Classical description                                                                 |
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | Positive symptoms | Delusions                                               | [[Persecutory delusions]], [[Grandiose delusions]]                                    |
-| -                  | Hallucinations                                          | Almost always -> [[Auditory hallucinations]], [[Accussatory auditory hallucinations]] |
-| -                  | Disorganisation of speech aka 'Formal thought disorder' | [[Word salad]], [[Neologism]] with [[Derailment]] and/or incoherent speech            |
-| -                  | Disorganisation of behavior                             | Not cleaning room, or themselves, not doing ADLs OR [[Catatonia]]                     |
+|                   | Hallucinations                                          | Almost always -> [[Auditory hallucinations]], [[Accussatory auditory hallucinations]] |
+|                   | Disorganisation of speech aka 'Formal thought disorder' | [[Word salad]], [[Neologism]] with [[Derailment]] and/or incoherent speech            |
+|                   | Disorganisation of behavior                             | Not cleaning room, or themselves, not doing ADLs OR [[Catatonia]]                     |
 | Negative symptoms | 5As                                                     | [[Flat affect]], [[Alogia]] , [[Avolition]], [[Anhedonia]], impaired attention                                                                                        |
 ### Labs
 #### Urine drug screen -> esp. if a college kid
@@ -71,12 +74,14 @@ Aliases: Dementia praecox
 #### Psychotherapy focusing on social skills and cognitive remediation
 #### Long acting atypical anti-psychotic which is life-long to prevent relapse
 ##### Select from one of the following [[Atypical anti-psychotics]] for long term use:
+
 | [[Atypical anti-psychotics]] | Contra-indication | Typical indications                                    |
 | ---------------------------- | ----------------- | ------------------------------------------------------ |
 | [[Aripiprazole]]             |                   | Young, avoids sedation, prolactinaemia and weight gain | 
 | [[Risperidone]]              |                   |                                                        |
 | [[Ziprasidone]]              |                   |                                                        |
 | [[Quetiapine]]               |                   | Acute intervention, chronic Tx if compliant patient                                                       |
+
 ##### Life-long only because it dosen't matter how long you've been on it the risk is all the same
 ##### Try 2-3 atypicals with at least 1 being a long-acting depot before swapping to [[Clozapine]]
 ## Complete clinical remission and psychosocial recovery only in 30% overall
