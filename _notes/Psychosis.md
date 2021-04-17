@@ -18,7 +18,7 @@ Aliases:
 |                   | Disorganisation of behavior | Not cleaning room, or themselves, not doing ADLs OR [[Catatonia]]                     |
 | Negative symptoms | 5As                         | [[Flat affect]], [[Alogia]] , [[Avolition]], [[Anhedonia]], impaired attention        |
 
-### Depending on the flavor of [[psychosis]] -> the content of the symptoms will be slightly different
+### Depending on the flavor of [[Psychosis]] -> the content of the symptoms will be slightly different
 ### Psychotic experiences are quite common ~5-10% will get them in their lifetime
 ####  Important to counsel and to reassure that there are effective treatments for it 
 ## DDx:
