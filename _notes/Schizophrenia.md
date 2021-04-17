@@ -1,6 +1,6 @@
 ---
 title: Schizophrenia
-tags: disease, psych 
+tags: disease psych 
 toc: true
 season: winter
 Aliases: Dementia praecox
@@ -20,11 +20,11 @@ Aliases: Dementia praecox
 ##### 6 months starting from onset of any prodrome (dosen't have to be formal psychosis)
 ##### This is not like PTSD where if you intervened earlier you could prevent it -> there is no therapy that we have which overcomes the neurodevelopmental predisposition
 ### Presence of disordered mood 
-|                            | Schizophrenia                                                     | Schizoaffective disorder                                                               | Mood disorder with psychotic features                                                                        | Mood disorder     |     |
-| -------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------- | --- |
-| Severeity of mood features | Not enough to meet criteria for  [[Depressive mood]] or [[Mania]] | Mostly Psychosis with meeting criteria for mild [[Depressive mood]] or [[Mania]]       | Mostly [[Depressive mood]] or [[Mania]] with mild features [[Psychosis]] which does not have to meet critera | Nil [[Psychosis]] |     |
-| Timing of mood features    | Nil                                                               | **Isolated psychotic episodes** which must be seperated from mood episodes by >2 weeks | Psychosis only happens sometimes during mood episodes, **never alone**                                       | Nil               |     |
-| Tx                         | Treat psychosis first                                             | Treat mood first                                                                       | Treat mood first                                                                                             | Treat mood first  |     |
+| Feature                    | Schizophrenia                                                     | Schizoaffective disorder                                                               | Mood disorder with psychotic features                                                                        | Mood disorder     |    
+| -------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------- | 
+| Severeity of mood features | Not enough to meet criteria for  [[Depressive mood]] or [[Mania]] | Mostly Psychosis with meeting criteria for mild [[Depressive mood]] or [[Mania]]       | Mostly [[Depressive mood]] or [[Mania]] with mild features [[Psychosis]] which does not have to meet critera | Nil [[Psychosis]] |    
+| Timing of mood features    | Nil                                                               | **Isolated psychotic episodes** which must be seperated from mood episodes by >2 weeks | Psychosis only happens sometimes during mood episodes, **never alone**                                       | Nil               |   
+| Tx                         | Treat psychosis first                                             | Treat mood first                                                                       | Treat mood first                                                                                             | Treat mood first  |   
 ### O/E
 #### [[Overdressing for weather]] including [[Sunglasses inside]]
 
@@ -50,9 +50,9 @@ Aliases: Dementia praecox
 | Symptom group     | Symptoms                                                | Classical description                                                                 |
 | ----------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | Positive symptoms | Delusions                                               | [[Persecutory delusions]], [[Grandiose delusions]]                                    |
-|                   | Hallucinations                                          | Almost always -> [[Auditory hallucinations]], [[Accussatory auditory hallucinations]] |
-|                   | Disorganisation of speech aka 'Formal thought disorder' | [[Word salad]], [[Neologism]] with [[Derailment]] and/or incoherent speech            |
-|                   | Disorganisation of behavior                             | Not cleaning room, or themselves, not doing ADLs OR [[Catatonia]]                     |
+| -                  | Hallucinations                                          | Almost always -> [[Auditory hallucinations]], [[Accussatory auditory hallucinations]] |
+| -                  | Disorganisation of speech aka 'Formal thought disorder' | [[Word salad]], [[Neologism]] with [[Derailment]] and/or incoherent speech            |
+| -                  | Disorganisation of behavior                             | Not cleaning room, or themselves, not doing ADLs OR [[Catatonia]]                     |
 | Negative symptoms | 5As                                                     | [[Flat affect]], [[Alogia]] , [[Avolition]], [[Anhedonia]], impaired attention                                                                                        |
 ### Labs
 #### Urine drug screen -> esp. if a college kid
