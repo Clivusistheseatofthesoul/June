@@ -1,7 +1,6 @@
 ---
-
 title: Schizophrenia
-tags: tag1
+tags: disease 
 toc: true
 season: winter
 Aliases: Dementia praecox
@@ -115,4 +114,3 @@ Aliases: Dementia praecox
 
 
 ---
-#disease 

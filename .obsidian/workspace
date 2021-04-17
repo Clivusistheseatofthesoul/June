@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "_notes/Schizophrenia.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +89,7 @@
   "active": "fae58d80c55fc5b9",
   "lastOpenFiles": [
     "_notes/Schizophrenia.md",
+    "_notes/Obsidian integration.md",
     "_notes/Disease template.md",
     "tags.md"
   ]
