@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "c547256574e3a1f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fae58d80c55fc5b9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/Schizophrenia.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ed7776216e66272",
+    "type": "split",
+    "children": [
+      {
+        "id": "8796623a88cd8e2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a32a4cd12f3fb033",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "76819dfefb5f9535",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2fb0b69e48f30aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b629f4c2190a1aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9bf8468f6d32492",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/Schizophrenia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fae58d80c55fc5b9",
+  "lastOpenFiles": [
+    "_notes/Schizophrenia.md",
+    "_notes/Disease template.md",
+    "tags.md"
+  ]
+}
